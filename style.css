@@ -2,6 +2,14 @@
   margin-bottom: 20px;
 } */
 
+p {
+  font-size: 0.875rem;
+}
+
+.my-name {
+  font-size: 1.875rem;
+}
+
 .hey-page {
   outline: solid red 1px;
   padding-top: 7rem;
