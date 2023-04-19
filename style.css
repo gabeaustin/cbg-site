@@ -18,3 +18,7 @@ p {
 .navbar {
   border-bottom: 1px solid #000; /* temporary for testing */
 }
+
+.accordion-button:not(.collapsed) {
+  background-color: hotpink; /* this will be whatever color I make the 2 btns at the top */
+}
